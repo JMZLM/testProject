@@ -1,0 +1,10 @@
+body { font-family: sans-serif; background: #f4f4f4; }
+.container {
+  max-width: 800px; margin: 2em auto; padding: 1em;
+  background: #fff; border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+textarea { width: 100%; font-family: monospace; }
+button   { padding: 0.5em 1em; margin-top: 0.5em; }
+table    { width: 100%; border-collapse: collapse; margin-top: 1em; }
+th, td   { border: 1px solid #ddd; padding: 0.5em; text-align: left; }
